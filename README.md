@@ -15,5 +15,5 @@ Some of the recommendations include:
 - Implement a higher cost per minute at a lower time allotment to incentivize casual riders to purchase annual memberships.
 - Reduce the time allotment that casual riders can use the bikes to incentivize them to purchase annual memberships.
 
-The case study was analyzed in R.
+The case study was analyzed in R and implemented using Google Colab.
 
